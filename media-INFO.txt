@@ -1,0 +1,3 @@
+Taruh file gambar/video di folder yang sama dengan status-bot.js.
+Samakan nama file dengan kolom mediaFile di jadwal.json.
+Contoh: jika mediaFile = foto-promo.jpg, taruh foto-promo.jpg di sini.
